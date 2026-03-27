@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
  Hi, I’m Devendra Prajapat<br> I’m Pursuing an undergraduate Btech degree in Computer science & Engineering from <br>Jodhpur Institute of Engineering and Technology (JIET)<br>I have completed my 5th Sem with 8.76  CGPA, <br>Aspring tech roles like Software Engineer & Data scientist.<br>
 
 
